@@ -9,6 +9,8 @@ beautifulsoup4 = "*"
 requests = "*"
 pandas = "*"
 selenium = "*"
+ipython = "*"
+nltk = "*"
 
 [dev-packages]
 
